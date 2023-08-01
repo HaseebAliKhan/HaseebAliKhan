@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haseeb Ali Khan</h1>
+[<h1 align="center">Hi 👋, I'm Haseeb Ali Khan</h1>
 <h3 align="center">A Passionate T3 Full Stack, NLP and RPA Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haseebalikhan&label=Profile%20views&color=0e75b6&style=flat" alt="haseebalikhan" /> </p>
@@ -38,3 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebalikhan&" alt="haseebalikhan" /></p>
 
+](https://github.com/HaseebAliKhan)https://github.com/HaseebAliKhan
