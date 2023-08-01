@@ -38,4 +38,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebalikhan&" alt="haseebalikhan" /></p>
 
-](https://github.com/HaseebAliKhan)https://github.com/HaseebAliKhan
