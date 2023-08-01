@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **RPA, LLM's and Transformer Models.**
 
-- 🙌 Level-1 Seller on **Fiverr**
+- 🙌 Level-1 Seller on [**Fiverr**](https://www.fiverr.com/haseebkhan142)
 
 - 💬 Ask me about **T3 Stack and NLP**
 
