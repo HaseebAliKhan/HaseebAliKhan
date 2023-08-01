@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevelopers.giphy.com%2Fdocs%2Fapi%2F&psig=AOvVaw2-PZJsKE0J_8U4DLcoVnU6&ust=1690991567336000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODv9tHou4ADFQAAAAAdAAAAABAE)](https://rishavchanda.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Haseeb Ali Khan</h1>
 <h3 align="center">A Passionate T3 Full Stack, NLP and RPA Developer</h3>
 
