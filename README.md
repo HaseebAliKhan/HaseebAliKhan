@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haseebalikhan&label=Profile%20views&color=0e75b6&style=flat" alt="haseebalikhan" /> </p>
 
+- 👨‍💻 Senior NLP Develop at **Aamby Technologies**
+
 - 🌱 I’m currently learning **RPA and LLM's and Transformer Models.**
+
+- 🙌 Level-1 Seller on **Fiverr**
 
 - 💬 Ask me about **T3 Stack and NLP**
 
